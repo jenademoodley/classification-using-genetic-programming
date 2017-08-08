@@ -1,0 +1,11 @@
+Seed: 145
+Population Size: 500
+Maximum Depth: 6
+Method (1-Grow, 2-Full, 3-Ramped Half and Half): 2
+Tournament Size: 15
+Maximum Offspring Size: 10
+Maximum Mutation Depth: 5
+Reproduction rate(%): 10
+Mutation rate(%): 30
+Crossover rate(%): 60
+Maximum Number of Offspring: 100
